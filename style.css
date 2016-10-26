@@ -1,0 +1,13 @@
+p::first-letter {
+    font-size: x-large;
+    color: red;
+}
+
+div p:nth-child(even) {
+    color: #CCC;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
